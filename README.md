@@ -1,7 +1,11 @@
 # Hi there, I'm Lutfi 👋
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lutfifadlan&color=0066FF&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
 **Engineering Manager | Technical Lead | Staff Software Engineer**  
-*8+ years building scalable systems • 5+ years in fintech • Led teams of 20+ engineers • Processed millions of transactions monthly*
+*8+ years building scalable systems • 6+ years in fintech • Led teams of 20+ engineers • Processed millions of transactions monthly*
 
 ## 🚀 About Me
 
@@ -38,6 +42,7 @@ I'm a seasoned engineering leader with 8+ years of experience spanning IC to EM 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 
 ### **Frontend & Full-Stack**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -49,10 +54,14 @@ I'm a seasoned engineering leader with 8+ years of experience spanning IC to EM 
 ### **Backend & Runtime**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST_API-02569B?style=flat-square&logo=rest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat-square&logo=grpc&logoColor=white)
+
+### **Message Queues & Streaming**
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/-AWS_SQS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ### **Databases**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -147,10 +156,6 @@ Code typing practice platform using real open-source projects to improve coding 
 - 🌟 **Full-Stack Vision:** Backend-focused with strong product development skills
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lutfifadlan&color=0066FF&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
 
 <div align="center">
   <i>💼 Open to Staff Engineer, Principal Engineer, and Engineering Manager opportunities</i><br>
