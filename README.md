@@ -102,35 +102,31 @@ I'm a seasoned engineering leader with 8+ years of experience spanning IC to EM 
 
 ## 🌟 Featured Projects
 
-### 🏆 [Last Working Day](https://lastworkingday.co)
-AI-powered farewell message generator that helps professionals craft personalized goodbye messages. **Revenue-generating product** with paying customers.
-
-**Tech Stack:** React, Next.js, TypeScript, OpenAI API, Lemonsqueezy, Vercel  
-**Impact:** $3+ revenue, 1000+ generated messages
-
 ### 🚀 [Supakeep](https://supakeep.xyz)
 Supabase keep-alive service preventing project inactivity pauses. Solving a real developer pain point with automated health checks.
 
 **Tech Stack:** Next.js, TypeScript, Supabase, Cron Jobs  
-**Impact:** 100+ active users, solving developer productivity issues
+**Impact:** 2+ active crons, solving developer productivity issues
 
-### 💼 [SyncPoint](https://appointment-ui.lutfifadlan.com)
-Intelligent appointment management platform with conflict prevention and collaboration features.
-
-**Tech Stack:** React, Node.js, MongoDB, TypeScript  
-**Impact:** Full-featured booking system with calendar integration
-
-### 🔧 [Goldofolio](https://goldofolio.vercel.app)
-Antam gold investment tracking application helping users monitor portfolio performance.
-
-**Tech Stack:** Next.js, TypeScript, Real-time APIs  
-**Impact:** Investment tracking for Indonesian gold market
 
 ### 📝 [JustCodeIt](https://justcodeit-ui.lutfifadlan.com)
 Code typing practice platform using real open-source projects to improve coding skills.
 
 **Tech Stack:** React, TypeScript, GitHub API integration  
 **Impact:** Developer skill improvement through practical typing
+
+### 🏆 [Last Working Day](https://lastworkingday.co)
+AI-powered farewell message generator that helps professionals craft personalized goodbye messages. **Revenue-generating product** with paying customers.
+
+**Tech Stack:** React, Next.js, TypeScript, OpenAI API, Lemonsqueezy, Vercel  
+**Impact:** $3+ revenue, 100+ generated messages
+
+### ✅ [Let's Focus](https://letsfocus.today)
+Modern to-do list application designed to help users stay focused and prioritize important tasks with a clean, intuitive interface.
+
+**Tech Stack:** React, Next.js, TypeScript, MongoDB, Tailwind CSS  
+**Impact:** Productivity tool helping users manage daily tasks efficiently
+
 
 ## 🎯 Leadership & Management
 
