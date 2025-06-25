@@ -1,14 +1,14 @@
-# Hi there, I'm Mochamad Lutfi Fadlan 👋
+# Hi there, I'm Lutfi 👋
 
 **Engineering Manager | Technical Lead | Staff Software Engineer**  
-*8+ years building scalable fintech systems • Led teams of 20+ engineers • Processed millions of transactions monthly*
+*8+ years building scalable systems • 5+ years in fintech • Led teams of 20+ engineers • Processed millions of transactions monthly*
 
 ## 🚀 About Me
 
-I'm a seasoned engineering leader with 8+ years of experience spanning IC to EM roles, specializing in fintech, payments, and high-scale distributed systems. I've led teams processing millions of monthly transactions, built revenue-generating products, and scaled engineering organizations from startup to unicorn stages.
+I'm a seasoned engineering leader with 8+ years of experience spanning IC to EM roles, specializing in distributed systems, full-stack development, and scalable architectures. I've led teams processing millions of monthly transactions, built revenue-generating products, and scaled engineering organizations from startup to unicorn stages.
 
-- 🏢 **Currently:** Founder & CTO building profitable AI-powered products
-- 💼 **Previously:** Engineering Manager at Vida, Staff Engineer at Cashboard (YC S22), 4+ years at Xendit
+- 🏢 **Currently:** Freelancing and working on side projects
+- 💼 **Previously:** Engineering Manager at Vida, Staff Engineer at Cashboard (YC S22), 5+ years at Xendit (YC W15)
 - 🎯 **Expertise:** Payments, billing systems, team leadership, full-stack development
 - 💰 **Impact:** $200k+ revenue generation, 20% company revenue contribution, 1M+ transactions processed
 - 👥 **Leadership:** Managed 13+ direct reports, scaled teams from 5 to 20+ engineers
@@ -18,13 +18,13 @@ I'm a seasoned engineering leader with 8+ years of experience spanning IC to EM 
 ## 🏆 Career Highlights
 
 ### 🚀 **Engineering Leadership Journey**
-- **Xendit (2016-2022):** Software Engineer → Technical Lead → Senior Technical Lead → Engineering Manager
+- **Xendit (YC W15, 2016-2022):** Software Engineer → Technical Lead → Senior Technical Lead → Engineering Manager
 - **Cashboard (YC S22):** Staff Software Engineer leading 1M+ transaction processing systems
 - **Vida:** Engineering Manager for digital signatures (1M+ monthly transactions, 99%+ uptime)
-- **Current:** Founder & CTO with 4 profitable products generating revenue
+- **Current:** Freelancing and building profitable side projects
 
 ### 💼 **Key Achievements**
-- 🏅 **Y Combinator Experience:** Staff Engineer at Cashboard (YC S22 batch)
+- 🏅 **Y Combinator Experience:** 5+ years at Xendit (YC W15), Staff Engineer at Cashboard (YC S22)
 - 💰 **Revenue Impact:** Generated $200k+ through billing automation, drove 20% of company revenue
 - 📈 **Scale Management:** Led teams processing 1M-5M+ monthly transactions
 - 🛠️ **Technical Leadership:** Migrated 5+ services to Kubernetes, implemented end-to-end observability
@@ -35,7 +35,6 @@ I'm a seasoned engineering leader with 8+ years of experience spanning IC to EM 
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -47,7 +46,8 @@ I'm a seasoned engineering leader with 8+ years of experience spanning IC to EM 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### **Backend & Infrastructure**
+### **Backend & Runtime**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![gRPC](https://img.shields.io/badge/-gRPC-4285F4?style=flat-square&logo=grpc&logoColor=white)
@@ -72,9 +72,14 @@ I'm a seasoned engineering leader with 8+ years of experience spanning IC to EM 
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Sentry](https://img.shields.io/badge/-Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 
-### **Fintech & Payments**
-![Xendit](https://img.shields.io/badge/-Xendit-0066FF?style=flat-square&logoColor=white)
+### **AI & Machine Learning**
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Whisper](https://img.shields.io/badge/-Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/-OpenRouter-FF6B6B?style=flat-square&logoColor=white)
+
+### **Payment Processing**
+![Xendit](https://img.shields.io/badge/-Xendit-0066FF?style=flat-square&logoColor=white)
+![LemonSqueezy](https://img.shields.io/badge/-LemonSqueezy-FFC83D?style=flat-square&logoColor=black)
 
 ## 📊 GitHub Stats
 
